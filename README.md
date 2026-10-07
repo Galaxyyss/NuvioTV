@@ -13,7 +13,7 @@
 </div>
 
 ## Get Nuvio TV
-
+d
 - [Android TV on Google Play](https://play.google.com/store/apps/details?id=com.nuvio.app)
 - [Android TV APK](https://github.com/NuvioMedia/NuvioTV/releases/latest)
 
