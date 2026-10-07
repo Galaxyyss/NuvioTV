@@ -3,7 +3,7 @@
   <img src="assets/brand/app_logo_wordmark.png" alt="Nuvio" width="300" />
 
   <p>
-    A free, open-source media app for your phone, your desktop, and the TV you already own.
+    A free, open-source media appd for your phone, your desktop, and the TV you already own.
     <br />
     Bring your own sources. Nuvio turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.
   </p>
