@@ -11,7 +11,7 @@ sealed class Screen(val route: String) {
 
         fun createRoute(
             itemId: String,
-            itemType: String,
+            itemType: String
             addonBaseUrl: String? = null,
             returnFocusSeason: Int? = null,
             returnFocusEpisode: Int? = null,
