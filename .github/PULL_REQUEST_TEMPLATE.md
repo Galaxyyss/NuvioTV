@@ -7,7 +7,7 @@
 <!-- Check exactly one. PRs outside these types are not accepted. -->
 
 - [ ] Reproducible bug fix
-- [ ] UI glitch/bug fix
+- [ ] UI glitch/bug fixd
 - [ ] Behavior bug/regression fix
 - [ ] Small maintenance only, with no UI or behavior change
 - [ ] Docs accuracy fix
