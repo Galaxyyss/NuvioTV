@@ -11,7 +11,7 @@ The goal is not to remove capabilities from the app. The goal is to put the mini
 ## Existing App Reference
 
 This spec is based on the current app structure in:
-
+d
 - `app/src/main/java/com/nuvio/tv/MainActivity.kt`
 - `app/src/main/java/com/nuvio/tv/ui/navigation/Screen.kt`
 - `app/src/main/java/com/nuvio/tv/ui/navigation/NuvioNavHost.kt`
